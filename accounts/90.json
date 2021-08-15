@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beaming-oarlock-323009",
+  "private_key_id": "ead177540611de33aed9cb921386ef83a2b8219d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYydx0/QCOxksL\nOofwqx7GjfUmfhUBBEHvjI9gLslMGyIYoWb67YEdGpZnv2jHgfd5OMZXSgz+N87u\nK3LY+JAAaeNRRyD2L2oUvi+g+/ea3XEz3nugFjveqLAv6s0waDokAEiBwsKj8yts\n4Fi5fT1NeQzu/XoqTS0dXYQ8SlSmdMjIRDbPjGHZ/Nm7GaoNdS6IZWGE17NzRxeX\n/s1CNKVSKSMgVshRE+J44iMTe7RxiJrxRUuaqnyhki85Lo7Ha26QGE5hQs9U4me1\ncrapc/qgi3/bofyJOTn8ePT63rQWeue1j8fMBVGHKDZzC9Qu19w5j777VLreqNya\nQoeHN76zAgMBAAECggEACyngqkmcI1J4xDrEGQEf0AkqSuQ2e6sIeEzQYwo4Gg/3\nd04/vIDjCLHbIHx7Vux3nQtZbqJR/bctLvjMvO64ctdJzTQBxAsl2Jsm1r/iURXy\nAgS1CrblK/kuWmnxESLkcKH2qkiFOT54w01HHlJ4yrLYD5REu1eFPtqI4XDa64iK\n+oVHXXBsMLnKF9NDDOncs8IwPJaryH6of1gBPKpTzrY0NpBecaHhR41YMlK9zttk\nv+9jPIxsjGnxt+MIUnFibTXjLN5gkh7a2+iHCMn+3zBKtp95xL7bPQ8yZ31P+8bZ\n9JmUmoi9JeW4kV+qkHVioQhYbvjAduuOiB03FvGudQKBgQDRTxs2zSdBGIhxKIhb\nAOF35yrSvRXqItgOdTFEZpReWlczu8Vw558UUZeJFdqYSExMPp3MigqivF4TyndM\n7ExN5gpAUp3d/2FH89nRU0kki1TGM7+vxJl6P7IrLx01VQdeFtRg/Y99tjqqRbN/\n27c1Jly6jFADPlftmVCMK2L8nwKBgQC63xISOmFnzEggGXVhwFGn111BI7cuX8fB\nXSfoJM+y7mkFZ5V7+r9BSUlHRubKOeeeawI2ERjUQ4le/XHF4Va8BKDkjrVU9aAU\nTSoSyeIKOYFc0xjxeIqvn5A0wyMQTLNN/Ic2XUOeDarGr4LVpCapkLpiKUt6FTwx\ncnUVyXBxbQKBgDDWwIbc/9fUnaGpz4dMgU+1BOz/aemkD73v4nsPZHdPpSFRIxTh\nNuFK2I0IKGV4GTWBNtjPLQQj59++UnAEgxl6H9I6dNOkD1L2t1B8moiIalOFJ6kf\nuqAn1K72413aZUmzEgM/pweySaYJdYTUA7/HH8P3kYPwPBwYtg6+4O4JAoGBAJb/\ngT6xZdvVucIWUD84g8K3x2bHUVFrm6GngIOYmyvecYYoeSXBK6G5cjjiFcL6nynn\nFdZSYlnCaNIUwUZAGzG6G7gTiHqqLzu4TnL4JmpUpS84dENKP+ZBbOj1dPPKxmgR\n0cAgBG9GY+RAFdxD0+nYRILlE1QGrKjX77w3FWDRAoGAO/OgoIMoHQ5FyAgoCGYJ\nh58cfsUS+7bP3f0iT/G7SBrVbtH3bt+VcmfJfrql0jUlVMJklVqxikbsSp9Mh2RT\nsV66HoZ5UnIs3aOhLQ9qKkxDIeH1qaR5v6h5U3skQ+TfI0xNxUc90T/wrU97V1x+\nUW8HKA2ElNwAFJ/P1WqFAQg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-gujzj92fcr2c5n-oo4y8gws-ca@beaming-oarlock-323009.iam.gserviceaccount.com",
+  "client_id": "112261140841604634495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-gujzj92fcr2c5n-oo4y8gws-ca%40beaming-oarlock-323009.iam.gserviceaccount.com"
+}
